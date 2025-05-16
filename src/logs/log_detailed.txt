@@ -1,0 +1,329 @@
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
+CUDA details:
+CUDA device: cuda
+CUDA device name: NVIDIA GeForce RTX 3060 Laptop GPU
+CUDA memory allocated: 394.40 MB
+CUDA memory cached: 400.56 MB
+CUDA memory max: 4000.00 MB
+Memory allocated -> 394.40 MB
